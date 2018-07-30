@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,codemirror",
+    "logging_enabled": "false",
+    "name": "codemirrorSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "codemirrorSmokeTest.js"
+}
